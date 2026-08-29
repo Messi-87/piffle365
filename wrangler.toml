@@ -1,0 +1,3 @@
+name = "piffle365"          # 与控制台里 Worker 名称一致
+compatibility_date = "2026-08-29"
+assets = { directory = "public", binding = "ASSETS" }

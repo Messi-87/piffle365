@@ -6,4 +6,4 @@ categories: []
 ---
 
 
-![](./test/test-1788049474130.webp)
+![](test-1788049474130.webp)
